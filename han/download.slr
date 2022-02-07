@@ -1,0 +1,29 @@
+#!/bin/bash
+#SBATCH -J download
+#SBATCH --account=rogersa-kp
+#SBATCH --partition=rogersa-kp
+#SBATCH --time=36:00:00
+#SBATCH --nodes 1
+#SBATCH --ntasks 1
+#SBATCH -e download.err # stderr
+
+# array of sample ids
+samples=($(cat samples.txt))
+
+# base of all URLs
+base="ftp://ftp.sra.ebi.ac.uk/vol1/ERZ375/"
+
+# loop over samples
+for smpl in ${samples[@]}; do
+  # directory in which this sample lives
+  dir=$(grep ${smpl} ../harris-ftplist.txt | cut -f2 -d'/' | uniq);
+
+  # get checksum
+  echo wget ${base}${dir}/${dir}.md5;
+
+  # get index
+  echo wget ${base}${dir}/${smpl}".annotated.nh2.vcf.gz.tbi"
+
+  # get data file
+  echo wget ${base}${dir}/${smpl}".annotated.nh2.vcf.gz"
+done
