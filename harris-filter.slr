@@ -40,10 +40,14 @@ echo "$target"
 # Switch to the scrath drive for speed
 cd $SCRDIR
 
-bcftools norm --multiallelics +any --fasta-ref $ref $target | #combine records of different types into a single line, then they will be removed by the filter command alone. Indels are normaliszed to the same positions using the refernence. 
+#combine records of different types into a single line, then they will
+#be removed by the filter command alone. Indels are normaliszed to the
+#same positions using the refernence.
+bcftools norm --multiallelics +any --fasta-ref $ref $target | 
 
-# Remove low quality and missing data. 
-bcftools filter -e 'FMT/FL = "0" | FMT/FL = "N"' | #Should be be doing this by including snps instead?
+# Remove low quality and missing data.  Should be be doing this by
+#including snps instead?
+bcftools filter -e 'FMT/FL = "0" | FMT/FL = "N"' | 
 
 # Limit the data to SNPs and fixed sites. 
 bcftools filter -i 'TYPE="snp" | TYPE="ref"' --SnpGap 7 |
