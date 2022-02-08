@@ -15,3 +15,11 @@ this:
 
     awk '{print $6}' samples.txt | sort | uniq -c > pops.txt
 
+## harris-ftplist.txt
+
+This file gives the URL where each sample is available. I got it from
+Nathan Harris. I haven't been able to figure out where he got it.
+
+## population directories
+
+The subdirectories contain SGDP data for each of several populations.
