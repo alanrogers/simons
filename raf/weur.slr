@@ -1,0 +1,5 @@
+base=$HOME/grp1/rogers/data/simons
+infiles=($(ls ${base}/english/*.vcf.gz ${base}/french/*.vcf.gz))
+
+bcftools merge ${infiles[@]} |
+
