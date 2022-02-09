@@ -40,8 +40,8 @@ bcftools norm --multiallelics +any --fasta-ref $ref -Ou |
 # missing data.
 bcftools filter --exclude 'FMT/FL = "0" | FMT/FL = "N"' -Ou | 
 
-# Limit the data to SNPs and fixed sites. Exclude sites within 7 bases
-# of an indel.
+# Limit the data to SNPs and fixed sites. This will remove sites that
+# contain indels. It alxo removes sites within 7 bases of an indel.
 bcftools filter --include 'TYPE="snp" || TYPE="ref"' --SnpGap 7 -Ou |
 
 # Output the columns that are required by raf
