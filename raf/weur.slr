@@ -2,7 +2,7 @@
 #SBATCH -J weur
 #SBATCH --account=rogersa-np
 #SBATCH --partition=rogersa-np
-#SBATCH --time=12:00:00
+#SBATCH --time=36:00:00
 #SBATCH --nodes 1
 #SBATCH --ntasks 1
 #SBATCH -o weur.out # stdout
@@ -21,10 +21,12 @@ ref=$HOME/grp1/rogers/data/hg19/hg19-sort.fa.gz
 # Base dir name
 base=$HOME/grp1/rogers/data/simons
 
-# Input files: all english and all french genomes
+# An array of names of input files
 infiles=($(ls ${base}/english/*.vcf.gz ${base}/french/*.vcf.gz))
 
-echo "input:" ${infiles[@]} | tr " " "\n" >&2
+# Write input files to stderr. The sed command puts them on
+# separate lines, indented.
+echo "input:" ${infiles[@]} | sed 's/ /\n  /g' >&2
 
 # Merge inputs into a single vcf.
 bcftools merge ${infiles[@]} -Ou |
@@ -38,7 +40,8 @@ bcftools norm --multiallelics +any --fasta-ref $ref -Ou |
 # missing data.
 bcftools filter --exclude 'FMT/FL = "0" | FMT/FL = "N"' -Ou | 
 
-# Limit the data to SNPs and fixed sites. 
+# Limit the data to SNPs and fixed sites. Exclude sites within 7 bases
+# of an indel.
 bcftools filter --include 'TYPE="snp" || TYPE="ref"' --SnpGap 7 -Ou |
 
 # Output the columns that are required by raf
