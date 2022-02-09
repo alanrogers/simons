@@ -33,7 +33,9 @@ bcftools merge ${infiles[@]} -Ou |
 # genome to normalize indels.
 bcftools norm --multiallelics +any --fasta-ref $ref -Ou | 
 
-# Remove low quality and missing data.
+# bcftools filter won't allow --include and --exclude in the same
+# command, so I'm using two commands. This one removes low quality and
+# missing data.
 bcftools filter --exclude 'FMT/FL = "0" | FMT/FL = "N"' -Ou | 
 
 # Limit the data to SNPs and fixed sites. 
