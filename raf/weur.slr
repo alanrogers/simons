@@ -22,7 +22,7 @@ base=$HOME/grp1/rogers/data/simons
 # Input files: all english and all french genomes
 infiles=($(ls ${base}/english/*.vcf.gz ${base}/french/*.vcf.gz))
 
-echo input: ${infiles[@]} | tr " " "\n" >&2
+echo "input:" ${infiles[@]} | tr " " "\n" >&2
 
 # Merge inputs into a single vcf.
 bcftools merge ${infiles[@]} -Ou |
