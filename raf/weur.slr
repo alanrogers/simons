@@ -11,6 +11,7 @@
 # Build raf file for western europeans
 
 module --latest load bcftools
+export LC_ALL=C
 
 # Output name
 target=weur
@@ -35,18 +36,22 @@ bcftools merge ${infiles[@]} -Ou |
 # genome to normalize indels.
 bcftools norm --multiallelics +any --fasta-ref $ref -Ou | 
 
-# bcftools filter won't allow --include and --exclude in the same
-# command, so I'm using two commands. This one removes low quality and
-# missing data.
-bcftools filter --exclude 'FMT/FL = "0" | FMT/FL = "N"' -Ou | 
-
 # Limit the data to SNPs and fixed sites. This will remove sites that
 # contain indels. The --SnpGap bit also removes sites within 7 bases
 # of an indel.
 bcftools filter --include 'TYPE="snp" || TYPE="ref"' --SnpGap 7 -Ou |
 
+# Set low-quality genotypes to "."
+bcftools filter --set-GTs . --exclude 'FMT/FL = "0" | FMT/FL = "N"' -Ou | 
+
+# No more than 2 alleles (but retain sites with 1 allele)
+bcftools view --max-alleles 2 -Ou |
+
 # Output the columns that are required by raf
-bcftools query -f '%CHROM\t%POS\t%REF \t%ALT[\t%GT]\n' | 
+bcftools query -f '%CHROM\t%POS\t%REF\t%ALT[\t%GT]\n' |
+
+# Sort chromosomes lexically. -s retains sort of POS w/i chromosomes.
+sort -s -k1,1 |
 
 # Make raf.gz file
 raf | gzip > ${target}.raf.gz    
