@@ -10,23 +10,25 @@
 
 # Build raf file for western europeans
 
-# output name
+# Output name
 target=weur
 
-# base dir name
-base=$HOME/grp1/rogers/data/simons
-
-# reference genome
+# Reference genome
 ref=$HOME/grp1/rogers/data/hg19/hg19-sort.fa.gz
 
-# input files
+# Base dir name
+base=$HOME/grp1/rogers/data/simons
+
+# Input files: all english and all french genomes
 infiles=($(ls ${base}/english/*.vcf.gz ${base}/french/*.vcf.gz))
+
+echo input: ${infiles[@]} >2
 
 # Merge inputs into a single vcf.
 bcftools merge ${infiles[@]} -Ou |
 
-#Combine records of different types into a single line. Use reference
-#genome to normalize indels.
+# Combine records of different types into a single line. Use reference
+# genome to normalize indels.
 bcftools norm --multiallelics +any --fasta-ref $ref -Ou | 
 
 # Remove low quality and missing data.
@@ -36,7 +38,7 @@ bcftools filter --exclude 'FMT/FL = "0" | FMT/FL = "N"' -Ou |
 bcftools filter --include 'TYPE="snp" || TYPE="ref"' --SnpGap 7 -Ou |
 
 # Output the columns that are required by raf
-bcftools query -f '%CHROM\t%POS\t%REF \t%ALT\t[%GT]\n' | 
+bcftools query -f '%CHROM\t%POS\t%REF \t%ALT\t[ %GT]\n' | 
 
 # Make raf.gz file
 raf | gzip > ${target}.raf.gz    
