@@ -1,0 +1,47 @@
+B	SS6004467	HGDP01308	HGDP01308	B_Dai-4	Dai	EastAsia	China	?	Howard Cann	M	21	100	Genomic_from_cell_lines	FullyPublic	X
+B	SS6004469	HGDP00775	HGDP00775	B_Han-3	Han	EastAsia	China	?	Howard Cann	M	32.26566812	114	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_E07	NA13604	NA13604	S_Atayal-1	Atayal	EastAsia	Taiwan	Cell_line_repository_sampling_location_unknown	Coriell	M	24.611712	121.296444	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_C01	HGDP01217	HGDP01217	S_Daur-1	Daur	EastAsia	China	?	Howard Cann	U	48.5	124.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_F04	HGDP01215	HGDP01215	S_Daur-2	Daur	EastAsia	China	?	Howard Cann	F	48.5	124.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_C06	HGDP00749	HGDP00749	S_Japanese-1	Japanese	EastAsia	Japan	?	Howard Cann	M	37.85	139.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_C07	NA13607	NA13607	S_Ami-1	Ami	EastAsia	Taiwan	Cell_line_repository_sampling_location_unknown	Coriell	M	22.843145	121.185356	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_G05	NA13616	NA13616	S_Ami-2	Ami	EastAsia	Taiwan	Cell_line_repository_sampling_location_unknown	Coriell	M	22.843145	121.185356	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005519-DNA_B06	Bu16	Bu16	S_Burmese-1	Burmese	EastAsia	Myanmar	Mandalay (sampled in Singapore)	Toomas Kivisild / Joseph Wee Tien Seng	M	17.0	96.7	Genomic_from_saliva	FullyPublic	X
+C	LP6005519-DNA_A06	Bu5	Bu5	S_Burmese-2	Burmese	EastAsia	Myanmar	Yangon (sampled in Singapore)	Toomas Kivisild / Joseph Wee Tien Seng	M	17.0	96.7	Genomic_from_saliva	FullyPublic	X
+C	LP6005441-DNA_G03	HGDP00717	HGDP00717	S_Cambodian-1	Cambodian	EastAsia	Cambodia	?	Howard Cann	M	12.0	105.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_H03	HGDP00713	HGDP00713	S_Cambodian-2	Cambodian	EastAsia	Cambodia	?	Howard Cann	F	12.0	105.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_D05	HGDP00783	HGDP00783	S_Han-1	Han	EastAsia	China	?	Howard Cann	F	32.3	114.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_C05	HGDP00785	HGDP00785	S_Han-2	Han	EastAsia	China	?	Howard Cann	M	32.3	114.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_G05	HGDP01240	HGDP01240	S_Hezhen-1	Hezhen	EastAsia	China	?	Howard Cann	M	47.5	133.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_H05	HGDP01242	HGDP01242	S_Hezhen-2	Hezhen	EastAsia	China	?	Howard Cann	F	47.5	133.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_D11	HG01600	HG01600	S_Kinh-1	Kinh	EastAsia	Vietnam	Ho Chi Minh City	1KG	F	21.0	105.9	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_C11	HG01846	HG01846	S_Kinh-2	Kinh	EastAsia	Vietnam	Ho Chi Minh City	1KG	M	21.0	105.9	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_D06	ND19394	ND19394	S_Korean-1	Korean	EastAsia	Korea	Cell_line_repository_sampling_location_unknown	Coriell	M	37.6	127.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_C06	NA00726	NA00726	S_Korean-2	Korean	EastAsia	Korea	Cell_line_repository_sampling_location_unknown	Coriell	F	37.6	127.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_B07	HGDP01323	HGDP01323	S_Lahu-1	Lahu	EastAsia	China	?	Howard Cann	F	22.0	100.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_E01	HGDP01320	HGDP01320	S_Lahu-2	Lahu	EastAsia	China	?	Howard Cann	M	22.0	100.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_C08	HGDP01191	HGDP01191	S_Miao-1	Miao	EastAsia	China	?	Howard Cann	M	28.0	109.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_D08	HGDP01198	HGDP01198	S_Miao-2	Miao	EastAsia	China	?	Howard Cann	F	28.0	109.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_E09	HGDP01203	HGDP01203	S_Oroqen-1	Oroqen	EastAsia	China	?	Howard Cann	M	50.4	126.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_F09	HGDP01211	HGDP01211	S_Oroqen-2	Oroqen	EastAsia	China	?	Howard Cann	F	50.4	126.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_G01	HGDP01335	HGDP01335	S_She-1	She	EastAsia	China	?	Howard Cann	F	27.0	119.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_F01	HGDP01333	HGDP01333	S_She-2	She	EastAsia	China	?	Howard Cann	M	27.0	119.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_A07	CHI-007	CHI-007	S_Thai-1	Thai	EastAsia	Thailand	Cell_line_repository_sampling_location_unknown	ECCAC	M	13.8	100.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_B07	CHI-034	CHI-034	S_Thai-2	Thai	EastAsia	Thailand	Cell_line_repository_sampling_location_unknown	ECCAC	F	13.8	100.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_H01	HGDP01350	HGDP01350	S_Tu-1	Tu	EastAsia	China	?	Howard Cann	M	36.0	101.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_D12	HGDP01355	HGDP01355	S_Tu-2	Tu	EastAsia	China	?	Howard Cann	F	36.0	101.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_A02	HGDP01095	HGDP01095	S_Tujia-1	Tujia	EastAsia	China	?	Howard Cann	M	29.0	109.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_F12	HGDP01098	HGDP01098	S_Tujia-2	Tujia	EastAsia	China	?	Howard Cann	F	29.0	109.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_B01	HGDP01306	HGDP01306	S_Uygur-1	Uygur	EastAsia	China	Yili	Howard Cann	F	44.0	81.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_B02	HGDP01297	HGDP01297	S_Uygur-2	Uygur	EastAsia	China	Yili	Howard Cann	M	44.0	81.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_D01	HGDP01250	HGDP01250	S_Xibo-1	Xibo	EastAsia	China	?	Howard Cann	M	43.5	81.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_C02	HGDP01246	HGDP01246	S_Xibo-2	Xibo	EastAsia	China	?	Howard Cann	M	43.5	81.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_G01	HGDP01179	HGDP01179	S_Yi-1	Yi	EastAsia	China	?	Howard Cann	M	28.0	103.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_H01	HGDP01188	HGDP01188	S_Yi-2	Yi	EastAsia	China	?	Howard Cann	F	28.0	103.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005592-DNA_D03	HGDP01314	HGDP01314	S_Dai-1	Dai	EastAsia	China	?	Howard Cann	F	21.0	100.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_B01	HGDP01312	HGDP01312	S_Dai-2	Dai	EastAsia	China	?	Howard Cann	M	21.0	100.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_D04	HGDP01315	HGDP01315	S_Dai-3	Dai	EastAsia	China	?	Howard Cann	F	21.0	100.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_D06	HGDP00773	HGDP00773	S_Japanese-2	Japanese	EastAsia	Japan	?	Howard Cann	F	37.85	139.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005592-DNA_C02	NA18940	NA18940	S_Japanese-3	Japanese	EastAsia	Japan	Tokyo	Coriell	M	37.85	139.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_E09	HGDP01338	HGDP01338	S_Naxi-1	Naxi	EastAsia	China	?	Howard Cann	M	26.0	100.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_B09	HGDP01345	HGDP01345	S_Naxi-3	Naxi	EastAsia	China	?	Howard Cann	F	26.0	100.0	Genomic_from_cell_lines	FullyPublic	X

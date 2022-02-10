@@ -1,0 +1,49 @@
+B	SS6004480	DNK07	DNK07	B_Dinka-3	Dinka	Africa	Sudan	Aweil	Michael Hammer	M	8.783333333	27.4	Genomic_from_saliva	FullyPublic	X
+B	SS6004473	HGDP01036	HGDP01036	B_Ju_hoan_North-4	Ju_hoan_North	Africa	Namibia	?	Howard Cann	M	-18.93725689	21.45244764	Genomic_from_cell_lines	FullyPublic	X
+B	SS6004470	HGDP01286	HGDP01286	B_Mandenka-3	Mandenka	Africa	Senegal	?	Howard Cann	M	12	-12	Genomic_from_cell_lines	FullyPublic	X
+B	SS6004471	HGDP00982	HGDP00982	B_Mbuti-4	Mbuti	Africa	Congo	?	Howard Cann	M	1	29	Genomic_from_cell_lines	FullyPublic	X
+B	SS6004475	HGDP00936	HGDP00936	B_Yoruba-3	Yoruba	Africa	Nigeria	?	Howard Cann	M	7.4	3.9	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_D09	Ayodo_81S	Ayodo_81S	S_Somali-1	Somali	Africa	Kenya	Garissa	Geoge Ayodo	F	5.6	48.3	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_F06	NA21490	NA21490	S_Masai-1	Masai	Africa	Kenya	Kinyawa	Coriell	M	-1.5	35.2	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_E06	NA21581	NA21581	S_Masai-2	Masai	Africa	Kenya	Kinyawa	Coriell	M	-1.5	35.2	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_G08	HGDP01253	HGDP01253	S_Mozabite-1	Mozabite	Africa	Algeria	?	Howard Cann	M	32.0	3.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_H08	HGDP01274	HGDP01274	S_Mozabite-2	Mozabite	Africa	Algeria	?	Howard Cann	F	32.0	3.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_G08	HGDP00991	HGDP00991	S_Ju_hoan_North-1	Ju_hoan_North	Africa	Namibia	?	Howard Cann	M	-18.9	21.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_E02	HGDP01028	HGDP01028	S_BantuHerero-1	BantuHerero	Africa	BotswanaOrNamibia	?	Howard Cann	M	-22.0	19.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_F01	HGDP01035	HGDP01035	S_BantuHerero-2	BantuHerero	Africa	BotswanaOrNamibia	?	Howard Cann	M	-22.0	19.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_A01	HGDP01417	HGDP01417	S_BantuKenya-1	BantuKenya	Africa	Kenya	?	Howard Cann	M	-3.0	37.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_B02	HGDP01414	HGDP01414	S_BantuKenya-2	BantuKenya	Africa	Kenya	?	Howard Cann	F	-3.0	37.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_G02	HGDP01030	HGDP01030	S_BantuTswana-1	BantuTswana	Africa	BotswanaOrNamibia	?	Howard Cann	M	-28.0	24.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_F02	HGDP01034	HGDP01034	S_BantuTswana-2	BantuTswana	Africa	BotswanaOrNamibia	?	Howard Cann	M	-28.0	24.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_G02	HGDP00457	HGDP00457	S_Biaka-1	Biaka	Africa	Central African Republic	?	Howard Cann	M	4.0	17.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_H02	HGDP00461	HGDP00461	S_Biaka-2	Biaka	Africa	Central African Republic	?	Howard Cann	M	4.0	17.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_H08	DNK05	DNK5	S_Dinka-1	Dinka	Africa	Sudan	Aweil	Michael Hammer	M	8.8	27.4	Genomic_from_saliva	FullyPublic	X
+C	LP6005443-DNA_B09	DNK11	DNK11	S_Dinka-2	Dinka	Africa	Sudan	Aweil	Michael Hammer	M	8.8	27.4	Genomic_from_saliva	FullyPublic	X
+C	LP6005442-DNA_A10	HG03100	HG03100	S_Esan-1	Esan	Africa	Nigeria	?	1KG	M	6.5	6.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_B10	HG02943	HG02943	S_Esan-2	Esan	Africa	Nigeria	?	1KG	F	6.5	6.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_G10	HG02464	HG02464	S_Gambian-1	Gambian	Africa	Gambia	Western District	1KG	M	13.4	-16.7	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_H10	HG02574	HG02574	S_Gambian-2	Gambian	Africa	Gambia	Western District	1KG	F	13.4	-16.7	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005677-DNA_D03	SA0342	SA0342	S_Khomani_San-1	Khomani_San	Africa	SouthAfrica	"Andriesvale Northern Cape, South Africa"	Brenna Henn	F	-27.0	20.8	Genomic_from_saliva	FullyPublic	X
+C	LP6005592-DNA_C05	SA0722	SA0722	S_Khomani_San-2	Khomani_San	Africa	SouthAfrica	"Andriesvale, Northern Cape, South Africa"	Brenna Henn	F	-27.0	20.8	Genomic_from_saliva	FullyPublic	X
+C	LP6005442-DNA_F11	NA19023	NA19023	S_Luhya-1	Luhya	Africa	Kenya	Webuye	Coriell	F	1.3	36.8	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_E11	NA19044	NA19044	S_Luhya-2	Luhya	Africa	Kenya	Webuye	Coriell	M	1.3	36.8	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005677-DNA_G01	Ayodo_430C	Ayodo_430C	S_Luo-1	Luo	Africa	Kenya	BondoDistrict	Geoge Ayodo	M	-0.1	34.3	Genomic_from_blood	FullyPublic	X
+C	LP6005442-DNA_F09	Ayodo_502C	Ayodo_502C	S_Luo-2	Luo	Africa	Kenya	BondoDistrict	Geoge Ayodo	F	-0.1	34.3	Genomic_from_blood	FullyPublic	X
+C	LP6005441-DNA_E07	HGDP01199	HGDP01199	S_Mandenka-1	Mandenka	Africa	Senegal	?	Howard Cann	M	12.0	-12.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_F07	HGDP00915	HGDP00915	S_Mandenka-2	Mandenka	Africa	Senegal	?	Howard Cann	F	12.0	-12.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_G11	HG03078	HG03078	S_Mende-1	Mende	Africa	SierraLeone	?	1KG	M	8.5	-13.2	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_H11	HG03085	HG03085	S_Mende-2	Mende	Africa	SierraLeone	?	1KG	F	8.5	-13.2	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005619-DNA_B01	SAH31	SAH31	S_Saharawi-1	Saharawi	Africa	Western Sahara (Morocco)	Close to the Algerian border	David Comas	M	27.3	-8.9	Genomic_from_blood	FullyPublic	X
+C	LP6005619-DNA_C01	SAH41	SAH41	S_Saharawi-2	Saharawi	Africa	Western Sahara (Morocco)	Close to the Algerian border	David Comas	M	27.3	-8.9	Genomic_from_blood	FullyPublic	X
+C	LP6005442-DNA_B02	HGDP00928	HGDP00928	S_Yoruba-1	Yoruba	Africa	Nigeria	?	Howard Cann	F	7.4	3.9	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005442-DNA_A02	HGDP00932	HGDP00932	S_Yoruba-2	Yoruba	Africa	Nigeria	?	Howard Cann	M	7.4	3.9	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_B11	HGDP00987	HGDP00987	S_Ju_hoan_North-2	Ju_hoan_North	Africa	Namibia	?	Howard Cann	M	-18.9	21.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_A11	HGDP01032	HGDP01032	S_Ju_hoan_North-3	Ju_hoan_North	Africa	Namibia	?	Howard Cann	M	-18.9	21.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005592-DNA_C03	HGDP00474	HGDP00474	S_Mbuti-1	Mbuti	Africa	Congo	?	Howard Cann	M	1.0	29.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_B08	HGDP00476	HGDP00476	S_Mbuti-2	Mbuti	Africa	Congo	?	Howard Cann	F	1.0	29.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_A08	HGDP00449	HGDP00449	S_Mbuti-3	Mbuti	Africa	Congo	?	Howard Cann	M	1.0	29.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005519-DNA_A09	COKN016	COKN016	S_Kongo-2	Kongo	Africa	Congo	Bandevouri-Fang	Sarah Tishkoff	F	2.5	11.8	Genomic_from_blood	SignedLetterNoDelay	Y
+C	LP6005519-DNA_A12	NGIB034	NGIB034	S_Igbo-1	Igbo	Africa	Nigeria	Kwamba Suleja	Sarah Tishkoff	M	6.0	7.0	Genomic_from_blood	SignedLetterNoDelay	Y
+C	LP6005519-DNA_B12	NGIB042	NGIB042	S_Igbo-2	Igbo	Africa	Nigeria	Kwamba Suleja	Sarah Tishkoff	F	6.0	7.0	Genomic_from_blood	SignedLetterNoDelay	Y
+C	LP6005677-DNA_C04	CALM031	CALM031	S_Lemande-1	Lemande	Africa	Cameroon	Tobagne	Sarah Tishkoff	F	4.5	11.1	Genomic_from_blood	SignedLetterNoDelay	Y
+C	LP6005677-DNA_D04	CALM016	CALM016	S_Lemande-2	Lemande	Africa	Cameroon	Tobagne	Sarah Tishkoff	M	4.5	11.1	Genomic_from_blood	SignedLetterNoDelay	Y

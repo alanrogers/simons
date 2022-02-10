@@ -1,0 +1,25 @@
+B	SS6004478	IHW9118	IHW9118	B_Australian-3	Australian	Oceania	Australia	Cell_line_repository_sampling_location_unknown	ECCAC	U	-13	143	Genomic_from_cell_lines	FullyPublic	X
+B	SS6004477	IHW9193	IHW9193	B_Australian-4	Australian	Oceania	Australia	Cell_line_repository_sampling_location_unknown	ECCAC	M	-13	143	Genomic_from_cell_lines	FullyPublic	X
+B	SS6004472	HGDP00546	HGDP00546	B_Papuan-15	Papuan	Oceania	PapuaNewGuinea	?	Howard Cann	M	-4	143	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005592-DNA_H03	NA17385	NA17385	S_Hawaiian-1	Hawaiian	Oceania	USA	Cell_line_repository_sampling_location_unknown	Coriell	M	21.3	-157.8	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005592-DNA_B02	NA17386	NA17386	S_Maori-1	Maori	Oceania	New Zealand	Cell_line_repository_sampling_location_unknown	Coriell	M	-41.3	174.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_A10	HGDP00541	HGDP00541	S_Papuan-3	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_B03	HGDP00660	HGDP00660	S_Bougainville-1	Bougainville	Oceania	PapuaNewGuinea	Bougainville_Island	Howard Cann	F	-6.0	155.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_A03	HGDP00656	HGDP00656	S_Bougainville-2	Bougainville	Oceania	PapuaNewGuinea	Bougainville_Island	Howard Cann	F	-6.0	155.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005519-DNA_F06	Dus22	Dus22	S_Dusun-1	Dusun	Oceania	Brunei	Tutong District	Toomas Kivisild / M. Syafiq Abdullah	F	4.7	114.7	Genomic_from_saliva	FullyPublic	X
+C	LP6005519-DNA_E06	Dus16	Dus16	S_Dusun-2	Dusun	Oceania	Brunei	"Lamunin, Tutong District"	Toomas Kivisild / M. Syafiq Abdullah	F	4.7	114.7	Genomic_from_saliva	FullyPublic	X
+C	LP6005519-DNA_C06	Igor20	Igor20	S_Igorot-1	Igorot	Oceania	Philippines	"Mountain Province, Luzon Island (sampled in Singapore)"	Toomas Kivisild / Joseph Wee Tien Seng	F	17.1	121.0	Genomic_from_saliva	FullyPublic	X
+C	LP6005519-DNA_D06	Igor21	Igor21	S_Igorot-2	Igorot	Oceania	Philippines	"Mountain Province, Luzon Island (sampled in Singapore)"	Toomas Kivisild / Joseph Wee Tien Seng	M	17.1	121.0	Genomic_from_saliva	FullyPublic	X
+C	LP6005441-DNA_B10	HGDP00550	HGDP00550	S_Papuan-1	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	F	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_B08	HGDP00553	HGDP00553	S_Papuan-10	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_C07	HGDP00555	HGDP00555	S_Papuan-11	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_G07	HGDP00556	HGDP00556	S_Papuan-12	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_D08	HGDP00552	HGDP00552	S_Papuan-13	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	F	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_E08	HGDP00554	HGDP00554	S_Papuan-14	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	F	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_H07	HGDP00540	HGDP00540	S_Papuan-2	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_E07	HGDP00543	HGDP00543	S_Papuan-4	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_D07	HGDP00545	HGDP00545	S_Papuan-5	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_C08	HGDP00547	HGDP00547	S_Papuan-6	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_F07	HGDP00548	HGDP00548	S_Papuan-7	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_A08	HGDP00549	HGDP00549	S_Papuan-8	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_F08	HGDP00551	HGDP00551	S_Papuan-9	Papuan	Oceania	PapuaNewGuinea	NewGuinea	Howard Cann	M	-4.0	143.0	Genomic_from_cell_lines	FullyPublic	X
