@@ -1,0 +1,27 @@
+C	LP6005442-DNA_F02	altai363p	altai363p	S_Altaian-1	Altaian	CentralAsiaSiberia	Russia	"Tenga, Ongudaisky district, Altai Republic"	Mait Metspalu / Olga Posukh	M	50.840	85.654	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_C03	Sir19	Sir19	S_Chukchi-1	Chukchi	CentralAsiaSiberia	Russia	"Sireniki, Chukchi Peninsula"	Rem Sukernik / Stanislav Dryomov	M	69	169	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_D03	Esk29	Esk29	S_Eskimo_Chaplin-1	Eskimo_Chaplin	CentralAsiaSiberia	Russia	"New Chaplino, Chukchi Peninsula"	Rem Sukernik / Stanislav Dryomov	M	64.48	172.86	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_D04	Kor82	Kor82	S_Itelman-1	Itelman	CentralAsiaSiberia	Russia	"Kovran, Kamchatka"	Rem Sukernik / Stanislav Dryomov	F	57	157	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_A03	Ale22	Ale22	S_Aleut-1	Aleut	CentralAsiaSiberia	Russia	"Nikolskoye, Commander Islands"	Rem Sukernik / Stanislav Dryomov	M	55.18	166	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_H02	Ale20	Ale20	S_Aleut-2	Aleut	CentralAsiaSiberia	Russia	"Nikolskoye, Commander Islands"	Rem Sukernik / Stanislav Dryomov	F	55.18	166	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_F03	Nesk_22	Nesk_22	S_Eskimo_Naukan-1	Eskimo_Naukan	CentralAsiaSiberia	Russia	"Naukan, Chukchi Peninsula"	Rem Sukernik / Stanislav Dryomov	F	66.02	169.71	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_G03	Nesk_25	Nesk_25	S_Eskimo_Naukan-2	Eskimo_Naukan	CentralAsiaSiberia	Russia	"Big Diomide Island, Chukchi Peninsula"	Rem Sukernik / Stanislav Dryomov	F	66.02	169.71	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_B03	Sir26	Sir26	S_Eskimo_Sireniki-1	Eskimo_Sireniki	CentralAsiaSiberia	Russia	"Sireniki, Chukchi Peninsula"	Rem Sukernik / Stanislav Dryomov	M	64.4	173.9	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_H03	Sir40	Sir40	S_Eskimo_Sireniki-2	Eskimo_Sireniki	CentralAsiaSiberia	Russia	"Sireniki, Chukchi Peninsula"	Rem Sukernik / Stanislav Dryomov	F	64.4	173.9	Genomic_from_blood	FullyPublic	X
+C	LP6005677-DNA_B02	Bishkek28440	Bishkek28440	S_Kyrgyz-1	Kyrgyz	CentralAsiaSiberia	Kyrgyzystan	Bishkek	Robert Mahley / Ugur Hodoglugil	M	42.9	74.6	Genomic_from_blood	FullyPublic	X
+C	LP6005677-DNA_A02	Bishkek28439	Bishkek28439	S_Kyrgyz-2	Kyrgyz	CentralAsiaSiberia	Kyrgyzystan	Bishkek	Robert Mahley / Ugur Hodoglugil	F	42.9	74.6	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_F04	Mansi79	Mansi79	S_Mansi-1	Mansi	CentralAsiaSiberia	Russia	"Sos'va river, Western Siberia"	Rem Sukernik / Stanislav Dryomov / Elena Starikovskaya	M	63.8	61.45	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_G04	Mansi41	Mansi41	S_Mansi-2	Mansi	CentralAsiaSiberia	Russia	"Shugur, Western Siberia"	Rem Sukernik / Stanislav Dryomov / Elena Starikovskaya	F	63.65	62.1	Genomic_from_blood	FullyPublic	X
+C	LP6005441-DNA_E08	HGDP01228	HGDP01228	S_Mongola-1	Mongola	CentralAsiaSiberia	China	?	Howard Cann	M	45.0	111.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_F08	HGDP01223	HGDP01223	S_Mongola-2	Mongola	CentralAsiaSiberia	China	?	Howard Cann	F	45.0	111.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_E05	Ale32	Ale32	S_Tlingit-1	Tlingit	CentralAsiaSiberia	Russia	"Petropavlovsk-Kamchatski, Commander Islands"	Rem Sukernik / Stanislav Dryomov	M	53	158.65	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_D05	Ale14	Ale14	S_Tlingit-2	Tlingit	CentralAsiaSiberia	Russia	"Nikolskoye, Commander Islands"	Rem Sukernik / Stanislav Dryomov	F	55.18	166	Genomic_from_blood	FullyPublic	X
+C	LP6005442-DNA_F12	Tuba19	Tuba19	S_Tubalar-1	Tubalar	CentralAsiaSiberia	Russia	"Artybash and Kebezen, Altai-Sayan Upland"	Rem Sukernik / Stanislav Dryomov	F	51.13333333	87	Genomic_from_blood	FullyPublic	X
+C	LP6005442-DNA_E12	Tuba9	Tuba9	S_Tubalar-2	Tubalar	CentralAsiaSiberia	Russia	"Artybash and Kebezen, Altai-Sayan Upland"	Rem Sukernik / Stanislav Dryomov	F	51.13333333	87	Genomic_from_blood	FullyPublic	X
+C	LP6005442-DNA_H12	Ul31	Ul31	S_Ulchi-1	Ulchi	CentralAsiaSiberia	Russia	"Nizhniy Gavan, Lower Amur"	Rem Sukernik / Stanislav Dryomov	F	52.43	140.42	Genomic_from_blood	FullyPublic	X
+C	LP6005442-DNA_G12	Ul5	Ul5	S_Ulchi-2	Ulchi	CentralAsiaSiberia	Russia	"Bogorodskoe, Lower Amur"	Rem Sukernik / Stanislav Dryomov	F	52.37	140.45	Genomic_from_blood	FullyPublic	X
+C	LP6005442-DNA_F01	HGDP00956	HGDP00956	S_Yakut-1	Yakut	CentralAsiaSiberia	Russia	?	Howard Cann	F	63.0	129.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_D02	HGDP00951	HGDP00951	S_Yakut-2	Yakut	CentralAsiaSiberia	Russia	?	Howard Cann	M	63.0	129.5	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005592-DNA_F03	Nlk1	Nlk1	S_Even-1	Even	CentralAsiaSiberia	Russia	"Djigda, Eastern Siberia"	Rem Sukernik / Stanislav Dryomov / Elena Starikovskaya	F	57.53	135.88	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_C04	Nlk18	Nlk18	S_Even-2	Even	CentralAsiaSiberia	Russia	"Djigda, Eastern Siberia"	Rem Sukernik / Stanislav Dryomov / Elena Starikovskaya	M	57.53	135.88	Genomic_from_blood	FullyPublic	X
+C	LP6005443-DNA_B04	Nlk3	Nlk3	S_Even-3	Even	CentralAsiaSiberia	Russia	"Djigda, Eastern Siberia"	Rem Sukernik / Stanislav Dryomov / Elena Starikovskaya	F	57.53	135.88	Genomic_from_blood	FullyPublic	X
