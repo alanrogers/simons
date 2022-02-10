@@ -8,11 +8,16 @@ This file was downloaded from [here][metainfo]. The original name,
 
 ## pops.txt
 
-This file contains 2 columns: (1) the number of samples in a
-population, and (2) the name of the population. It was generated like
+This file contains 3 columns: (1) the number of samples in a
+population, (2) the region in which the population is located, and (3)
+the name of the population. It was generated like 
 this:
 
-    awk '{print $6}' samples.txt | sort | uniq -c > pops.txt
+    awk 'BEGIN {OFS="\t"} {print $7, $6}' samples.txt | sort |
+    uniq -c > pops.txt
+
+This file groups the Tlingit under CentralAsiaSiberia. They actually
+live in Canada.
 
 ## harris-ftplist.txt
 

@@ -1,143 +1,143 @@
-   2 Abkhasian
-   2 Adygei
-   1 Albanian
-   2 Aleut
-   1 Altaian
-   2 Ami
-   2 Armenian
-   1 Atayal
-   2 Australian
-   2 Balochi
-   2 BantuHerero
-   2 BantuKenya
-   2 BantuTswana
-   2 Basque
-   2 BedouinB
-   2 Bengali
-   2 Bergamo
-   2 Biaka
-   2 Bougainville
-   2 Brahmin
-   2 Brahui
-   2 Bulgarian
-   2 Burmese
-   2 Burusho
-   2 Cambodian
-   1 Chane
-   1 Chechen
-   2 Chipewyan
-   1 Chukchi
-   2 Cree
-   2 Crete
-   1 Czech
-   4 Dai
-   2 Daur
-   3 Dinka
-   2 Druze
-   2 Dusun
-   2 English
-   2 Esan
-   1 Eskimo_Chaplin
-   2 Eskimo_Naukan
-   2 Eskimo_Sireniki
-   2 Estonian
-   3 Even
-   3 Finnish
-   3 French
-   2 Gambian
-   2 Georgian
-   2 Greek
-   3 Han
-   1 Hawaiian
-   2 Hazara
-   2 Hezhen
-   2 Hungarian
-   2 Icelandic
-   2 Igbo
-   2 Igorot
-   2 Iranian
-   2 Iraqi_Jew
-   2 Irula
-   1 Itelman
-   3 Japanese
-   3 Jordanian
-   4 Ju_hoan_North
-   2 Kalash
-   2 Kapu
-   3 Karitiana
-   1 Kashmiri_Pandit
-   1 Kharia
-   2 Khomani_San
-   1 Khonda_Dora
-   2 Kinh
-   1 Kongo
-   2 Korean
-   1 Kurumba
-   2 Kusunda
-   2 Kyrgyz
-   2 Lahu
-   2 Lemande
-   2 Lezgin
-   2 Luhya
-   2 Luo
-   2 Madiga
-   2 Makrani
-   3 Mala
-   3 Mandenka
-   2 Mansi
-   1 Maori
-   2 Masai
-   2 Mayan
-   4 Mbuti
-   2 Mende
-   2 Miao
-   3 Mixe
-   2 Mixtec
-   2 Mongola
-   2 Mozabite
-   2 Nahua
-   2 Naxi
-   2 North_Ossetian
-   1 Norwegian
-   2 Onge
-   2 Orcadian
-   2 Oroqen
-   3 Palestinian
-  15 Papuan
-   2 Pathan
-   2 Piapoco
-   2 Pima
-   1 Polish
-   1 Population_ID
-   4 Punjabi
-   3 Quechua
-   2 Relli
-   2 Russian
-   2 Saami
-   2 Saharawi
-   1 Samaritan
-   3 Sardinian
-   2 She
-   2 Sherpa
-   2 Sindhi
-   1 Somali
-   2 Spanish
-   2 Surui
-   2 Tajik
-   2 Thai
-   2 Tibetan
-   2 Tlingit
-   2 Tu
-   2 Tubalar
-   2 Tujia
-   2 Turkish
-   2 Tuscan
-   2 Ulchi
-   2 Uygur
-   2 Xibo
-   2 Yadava
-   2 Yakut
-   2 Yemenite_Jew
-   2 Yi
-   3 Yoruba
-   2 Zapotec
+   2 Africa	BantuHerero
+   2 Africa	BantuKenya
+   2 Africa	BantuTswana
+   2 Africa	Biaka
+   3 Africa	Dinka
+   2 Africa	Esan
+   2 Africa	Gambian
+   2 Africa	Igbo
+   4 Africa	Ju_hoan_North
+   2 Africa	Khomani_San
+   1 Africa	Kongo
+   2 Africa	Lemande
+   2 Africa	Luhya
+   2 Africa	Luo
+   3 Africa	Mandenka
+   2 Africa	Masai
+   4 Africa	Mbuti
+   2 Africa	Mende
+   2 Africa	Mozabite
+   2 Africa	Saharawi
+   1 Africa	Somali
+   3 Africa	Yoruba
+   1 America	Chane
+   2 America	Chipewyan
+   2 America	Cree
+   3 America	Karitiana
+   2 America	Mayan
+   3 America	Mixe
+   2 America	Mixtec
+   2 America	Nahua
+   2 America	Piapoco
+   2 America	Pima
+   3 America	Quechua
+   2 America	Surui
+   2 America	Zapotec
+   2 CentralAsiaSiberia	Aleut
+   1 CentralAsiaSiberia	Altaian
+   1 CentralAsiaSiberia	Chukchi
+   1 CentralAsiaSiberia	Eskimo_Chaplin
+   2 CentralAsiaSiberia	Eskimo_Naukan
+   2 CentralAsiaSiberia	Eskimo_Sireniki
+   3 CentralAsiaSiberia	Even
+   1 CentralAsiaSiberia	Itelman
+   2 CentralAsiaSiberia	Kyrgyz
+   2 CentralAsiaSiberia	Mansi
+   2 CentralAsiaSiberia	Mongola
+   2 CentralAsiaSiberia	Tlingit
+   2 CentralAsiaSiberia	Tubalar
+   2 CentralAsiaSiberia	Ulchi
+   2 CentralAsiaSiberia	Yakut
+   2 EastAsia	Ami
+   1 EastAsia	Atayal
+   2 EastAsia	Burmese
+   2 EastAsia	Cambodian
+   4 EastAsia	Dai
+   2 EastAsia	Daur
+   3 EastAsia	Han
+   2 EastAsia	Hezhen
+   3 EastAsia	Japanese
+   2 EastAsia	Kinh
+   2 EastAsia	Korean
+   2 EastAsia	Lahu
+   2 EastAsia	Miao
+   2 EastAsia	Naxi
+   2 EastAsia	Oroqen
+   2 EastAsia	She
+   2 EastAsia	Thai
+   2 EastAsia	Tu
+   2 EastAsia	Tujia
+   2 EastAsia	Uygur
+   2 EastAsia	Xibo
+   2 EastAsia	Yi
+   2 Oceania	Australian
+   2 Oceania	Bougainville
+   2 Oceania	Dusun
+   1 Oceania	Hawaiian
+   2 Oceania	Igorot
+   1 Oceania	Maori
+  15 Oceania	Papuan
+   1 Region	Population_ID
+   2 SouthAsia	Balochi
+   2 SouthAsia	Bengali
+   2 SouthAsia	Brahmin
+   2 SouthAsia	Brahui
+   2 SouthAsia	Burusho
+   2 SouthAsia	Hazara
+   2 SouthAsia	Irula
+   2 SouthAsia	Kalash
+   2 SouthAsia	Kapu
+   1 SouthAsia	Kashmiri_Pandit
+   1 SouthAsia	Kharia
+   1 SouthAsia	Khonda_Dora
+   1 SouthAsia	Kurumba
+   2 SouthAsia	Kusunda
+   2 SouthAsia	Madiga
+   2 SouthAsia	Makrani
+   3 SouthAsia	Mala
+   2 SouthAsia	Onge
+   2 SouthAsia	Pathan
+   4 SouthAsia	Punjabi
+   2 SouthAsia	Relli
+   2 SouthAsia	Sherpa
+   2 SouthAsia	Sindhi
+   2 SouthAsia	Tibetan
+   2 SouthAsia	Yadava
+   2 WestEurasia	Abkhasian
+   2 WestEurasia	Adygei
+   1 WestEurasia	Albanian
+   2 WestEurasia	Armenian
+   2 WestEurasia	Basque
+   2 WestEurasia	BedouinB
+   2 WestEurasia	Bergamo
+   2 WestEurasia	Bulgarian
+   1 WestEurasia	Chechen
+   2 WestEurasia	Crete
+   1 WestEurasia	Czech
+   2 WestEurasia	Druze
+   2 WestEurasia	English
+   2 WestEurasia	Estonian
+   3 WestEurasia	Finnish
+   3 WestEurasia	French
+   2 WestEurasia	Georgian
+   2 WestEurasia	Greek
+   2 WestEurasia	Hungarian
+   2 WestEurasia	Icelandic
+   2 WestEurasia	Iranian
+   2 WestEurasia	Iraqi_Jew
+   3 WestEurasia	Jordanian
+   2 WestEurasia	Lezgin
+   2 WestEurasia	North_Ossetian
+   1 WestEurasia	Norwegian
+   2 WestEurasia	Orcadian
+   3 WestEurasia	Palestinian
+   1 WestEurasia	Polish
+   2 WestEurasia	Russian
+   2 WestEurasia	Saami
+   1 WestEurasia	Samaritan
+   3 WestEurasia	Sardinian
+   2 WestEurasia	Spanish
+   2 WestEurasia	Tajik
+   2 WestEurasia	Turkish
+   2 WestEurasia	Tuscan
+   2 WestEurasia	Yemenite_Jew
