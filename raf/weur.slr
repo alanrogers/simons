@@ -20,7 +20,7 @@ target=weur
 ref=$HOME/grp1/rogers/data/hg19/hg19-sort.fa.gz
 
 # Base dir name
-base=$HOME/grp1/rogers/data/simons
+base=$HOME/grp1/rogers/data/simons/WestEurasia
 
 # An array of names of input files
 infiles=($(ls ${base}/english/*.vcf.gz ${base}/french/*.vcf.gz))
