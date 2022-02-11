@@ -1,0 +1,10 @@
+input:
+  /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/english/LP6005442-DNA_E10.annotated.nh2.vcf.gz
+  /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/english/LP6005442-DNA_F10.annotated.nh2.vcf.gz
+  /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/french/LP6005441-DNA_A05.annotated.nh2.vcf.gz
+  /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/french/LP6005441-DNA_B05.annotated.nh2.vcf.gz
+  /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/french/SS6004468.annotated.nh2.vcf.gz
+[E::faidx_adjust_position] The sequence "X" was not found
+faidx_fetch_seq failed at X:60001
+raf: 2295354640 good sites; 389198789 rejected
+raf: bad sites with 0 genotypes: 389198789

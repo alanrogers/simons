@@ -1,0 +1,32 @@
+#!/bin/bash
+#SBATCH -J download
+#SBATCH --account=dtn
+#SBATCH --partition=notchpeak-dtn
+#SBATCH --time=10:00:00
+#SBATCH -o download.out # stdout
+#SBATCH -e download.err # stderr
+
+# array of sample ids
+samples=($(cat samples.txt))
+
+# base of all URLs for Simons Diversity Project
+base="ftp://ftp.sra.ebi.ac.uk/vol1/ERZ375"
+
+# loop over samples
+for smpl in ${samples[@]}; do
+    # directory in which this sample lives. The "cut" command separates
+    # the dir name from "." (which is in field 1) and the file name
+    # (field 3). The output of cut lists the dir name as many times as
+    # there are files in the dir. Then "uniq" reduces this to a single
+    # value.
+    dir=$(grep ${smpl} ../../harris-ftplist.txt | cut -d'/' -f2 | uniq);
+
+    # checksum file name is the directory name followed by ".md5"
+    wget ${base}/${dir}/${dir}.md5;
+
+    # get index
+    wget --no-clobber ${base}/${dir}/${smpl}".annotated.nh2.vcf.gz.tbi"
+
+    # get data file
+    wget --no-clobber ${base}/${dir}/${smpl}".annotated.nh2.vcf.gz"
+done
