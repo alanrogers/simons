@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -J weur
+#SBATCH -J yoruba
 #SBATCH --account=rogersa-np
 #SBATCH --partition=rogersa-np
 #SBATCH --time=36:00:00
@@ -16,16 +16,16 @@ module --latest load bcftools
 export LC_ALL=C
 
 # Output name
-target=weur
+target=yoruba
 
 # Reference genome
 ref=$HOME/grp1/rogers/data/hg19/hg19-sort.fa.gz
 
 # Base dir name
-base=$HOME/grp1/rogers/data/simons/WestEurasia
+base=$HOME/grp1/rogers/data/simons/Africa
 
 # An array of names of input files
-infiles=($(ls ${base}/english/*.vcf.gz ${base}/french/*.vcf.gz))
+infiles=($(ls ${base}/yoruba/*.vcf.gz))
 
 # Write input files to stderr. The sed command puts them on
 # separate lines, indented.
