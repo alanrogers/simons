@@ -5,8 +5,8 @@
 #SBATCH --time=36:00:00
 #SBATCH --nodes 1
 #SBATCH --ntasks 1
-#SBATCH -o weur.out # stdout
-#SBATCH -e weur.err # stderr
+#SBATCH -o yoruba.out # stdout
+#SBATCH -e yoruba.err # stderr
 
 # Build raf file for western europeans
 
