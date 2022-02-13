@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH -J yoruba
-#SBATCH --account=rogersa-np
-#SBATCH --partition=rogersa-np
+#SBATCH --account=rogersa-kp
+#SBATCH --partition=rogersa-kp
 #SBATCH --time=36:00:00
 #SBATCH --nodes 1
 #SBATCH --ntasks 1
