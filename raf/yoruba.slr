@@ -21,6 +21,9 @@ target=yoruba
 # Reference genome
 ref=$HOME/grp1/rogers/data/hg19/hg19-sort.fa.gz
 
+# Comma-separated list of autosomes
+autosomes=$(seq 1 22 | xargs echo | tr " "  ",")
+
 # Base dir name
 base=$HOME/grp1/rogers/data/simons/Africa
 
@@ -47,7 +50,7 @@ bcftools filter --include 'TYPE="snp" || TYPE="ref"' --SnpGap 7 -Ou |
 bcftools filter --set-GTs . --exclude 'FMT/FL = "0" | FMT/FL = "N"' -Ou | 
 
 # No more than 2 alleles (but retain sites with 1 allele)
-bcftools view --max-alleles 2 -Ou |
+bcftools view --max-alleles 2 --regions $autosomes -Ou |
 
 # Output the columns that are required by raf
 bcftools query -f '%CHROM\t%POS\t%REF\t%ALT[\t%GT]\n' |
