@@ -3,8 +3,8 @@
 #SBATCH --account=dtn
 #SBATCH --partition=notchpeak-dtn
 #SBATCH --time=10:00:00
-#SBATCH -o download.out # stdout
-#SBATCH -e download.err # stderr
+#SBATCH -o %x.out # stdout
+#SBATCH -e %x.err # stderr
 
 # array of sample ids
 samples=($(cat samples.txt))

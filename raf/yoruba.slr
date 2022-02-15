@@ -1,12 +1,12 @@
 #!/bin/bash
-#SBATCH -J yoruba
+#SBATCH -J yoruba # set job name and name of output file
 #SBATCH --account=rogersa-np
 #SBATCH --partition=rogersa-np
 #SBATCH --time=36:00:00
 #SBATCH --nodes 1
 #SBATCH --ntasks 1
-#SBATCH -o yoruba.out # stdout
-#SBATCH -e yoruba.err # stderr
+#SBATCH -o %x.out # stdout file; %x is value from -J above
+#SBATCH -e %x.err # stderr file; ditto
 
 # Build raf file for western europeans
 
@@ -15,8 +15,8 @@ module --latest load bcftools
 # Determine lexical sort order.
 export LC_ALL=C
 
-# Output name
-target=yoruba
+# Output name as specified in "#SBATCH -J" above
+target=$SLURM_JOB_NAME
 
 # Reference genome
 ref=$HOME/grp1/rogers/data/hg19/hg19-sort.fa.gz
@@ -25,6 +25,7 @@ ref=$HOME/grp1/rogers/data/hg19/hg19-sort.fa.gz
 autosomes=$(seq 1 22 | xargs echo | tr " "  ",")
 
 # Base dir name
+#base=../WestEurasia
 base=$HOME/grp1/rogers/data/simons/Africa
 
 # An array of names of input files
