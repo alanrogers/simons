@@ -4,6 +4,6 @@ input:
   /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/WestEurasia/french/LP6005441-DNA_A05.annotated.nh2.vcf.gz
   /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/WestEurasia/french/LP6005441-DNA_B05.annotated.nh2.vcf.gz
   /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/WestEurasia/french/SS6004468.annotated.nh2.vcf.gz
-Failed to read from standard input: not compressed with bgzip
-Failed to read from standard input: unknown file type
-raf: 0 good sites; 0 rejected
+Lines   total/split/realigned/skipped:	-1610394291/0/0/0
+raf: 2295354640 good sites; 389198790 rejected
+raf: bad sites with 0 genotypes: 389198790

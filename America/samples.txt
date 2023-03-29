@@ -1,0 +1,28 @@
+B	SS6004476	HGDP01015	HGDP01015	B_Karitiana-3	Karitiana	America	Brazil	?	Howard Cann	M	-10	-63	Genomic_from_cell_lines	FullyPublic	X
+B	SS6004479	mixe0007	mixe0007	B_Mixe-1	Mixe	America	Mexico	"Tmazulapan, Mixe"	William Klitz / Cheryl Winkler	F	16.95	-96.58	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005519-DNA_D01	TGBS21	TGBS21	S_Chane-1	Chane	America	Argentina	"Salta (province), Tartagal (city) "	Andres Ruiz-Linares / Claudio M. Bravi	M	-22.53	-63.82	Genomic_from_blood	FullyPublic	X
+C	LP6005441-DNA_E10	HGDP01047	HGDP01047	S_Pima-1	Pima	America	Mexico	?	Howard Cann	M	29.0	-108.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_F10	HGDP01044	HGDP01044	S_Pima-2	Pima	America	Mexico	?	Howard Cann	F	29.0	-108.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_G06	HGDP01012	HGDP01012	S_Karitiana-1	Karitiana	America	Brazil	?	Howard Cann	M	-10.0	-63.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_H06	HGDP01018	HGDP01018	S_Karitiana-2	Karitiana	America	Brazil	?	Howard Cann	F	-10.0	-63.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_G07	HGDP00855	HGDP00855	S_Mayan-1	Mayan	America	Mexico	?	Howard Cann	F	19.0	-91.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_H07	HGDP00857	HGDP00857	S_Mayan-2	Mayan	America	Mexico	?	Howard Cann	F	19.0	-91.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_E11	mixe0002	mixe0002	S_Mixe-2	Mixe	America	Mexico	"Tmazulapan, Mixe"	William Klitz / Cheryl Winkler	F	16.95	-96.58	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_F11	mixe0042	mixe0042	S_Mixe-3	Mixe	America	Mexico	"Tamazulapan, Mixe"	William Klitz / Cheryl Winkler	F	16.95	-96.58	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_G11	mixa0099	mixa0099	S_Mixtec-1	Mixtec	America	Mexico	San Andres Nuxino	William Klitz / Cheryl Winkler	M	17.0	-97.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_H11	mixa0105	mixa0105	S_Mixtec-2	Mixtec	America	Mexico	?	William Klitz / Cheryl Winkler	F	17.0	-97.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_A04	HGDP00702	HGDP00702	S_Piapoco-1	Piapoco	America	Colombia	?	Howard Cann	F	3.0	-68.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_B04	HGDP00706	HGDP00706	S_Piapoco-2	Piapoco	America	Colombia	?	Howard Cann	F	3.0	-68.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_A12	HGDP00846	HGDP00846	S_Surui-1	Surui	America	Brazil	?	Howard Cann	F	-11.0	-62.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005441-DNA_B12	HGDP00852	HGDP00852	S_Surui-2	Surui	America	Brazil	?	Howard Cann	F	-11.0	-62.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005443-DNA_A12	zapo0098	zapo0098	S_Zapotec-1	Zapotec	America	Mexico	San Juan Guelavia	William Klitz / Cheryl Winkler	M	16.5	-97.2	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005677-DNA_D01	zapo0099	zapo0099	S_Zapotec-2	Zapotec	America	Mexico	San Juan Guelavia	William Klitz / Cheryl Winkler	M	16.5	-97.2	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005677-DNA_F01	NA11201	NA11201	S_Quechua-1	Quechua	America	Peru	Cell_line_repository_sampling_location_unknown	Coriell	F	-13.5	-72.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005677-DNA_E01	NA11200	NA11200	S_Quechua-2	Quechua	America	Peru	Cell_line_repository_sampling_location_unknown	Coriell	M	-13.5	-72.0	Genomic_from_cell_lines	FullyPublic	X
+C	LP6005519-DNA_G02	Peru60	Peru60	S_Quechua-3	Quechua	America	Peru	?	Chris Tyler-Smith / Andres Ruiz-Linares	F	-13.5	-72.0	Genomic_from_blood	FullyPublic	X
+C	LP6005519-DNA_A03	Mex02	Mex02	S_Nahua-1	Nahua	America	Mexico	Zitlala	Chris Tyler-Smith / Andres Ruiz-Linares / Andres Moreno-Estrada	U	19.01	-99.06	Genomic_from_saliva	SignedLetterNoDelay	Y
+C	LP6005519-DNA_B03	Mex20	Mex20	S_Nahua-2	Nahua	America	Mexico	Zitlala	Chris Tyler-Smith / Andres Ruiz-Linares / Andres Moreno-Estrada	M	19.01	-99.06	Genomic_from_saliva	SignedLetterNoDelay	Y
+C	LP6005442-DNA_H06	NAD93	NAD93	S_Chipewyan-1	Chipewyan	America	Canada	Uranium City	Damian Labuda	F	59.6	-107.3	Genomic_from_blood	SignedLetterNoDelay	Y
+C	LP6005443-DNA_F05	NAD59	NAD59	S_Chipewyan-2	Chipewyan	America	Canada	Saskatchewan	Damian Labuda	M	59.6	-107.3	Genomic_from_blood	SignedLetterNoDelay	Y
+C	LP6005442-DNA_A07	Cree5	Cree5	S_Cree-1	Cree	America	Canada	Saskatchewan	Damian Labuda	M	50.3	-102.5	Genomic_from_blood	SignedLetterNoDelay	Y
+C	LP6005442-DNA_B07	Cree6	Cree6	S_Cree-2	Cree	America	Canada	Saskatchewan	Damian Labuda	F	50.3	-102.5	Genomic_from_blood	SignedLetterNoDelay	Y

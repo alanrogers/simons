@@ -1,0 +1,7 @@
+input:
+  /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/Africa/yoruba/LP6005442-DNA_A02.annotated.nh2.vcf.gz
+  /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/Africa/yoruba/LP6005442-DNA_B02.annotated.nh2.vcf.gz
+  /uufs/chpc.utah.edu/common/home/u0028949/grp1/rogers/data/simons/Africa/yoruba/SS6004475.annotated.nh2.vcf.gz
+Lines   total/split/realigned/skipped:	-1610394291/0/0/0
+raf: 2283922037 good sites; 400634176 rejected
+raf: bad sites with 0 genotypes: 400634176
